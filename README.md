@@ -8,3 +8,5 @@
 - https://github.com/LIJIANcoder97/kaggle-Tianchi-ML-DL/blob/master/_Tianchi%20old%20car%20Task3%20.ipynb
 ### task4 建模调参
 - https://github.com/LIJIANcoder97/kaggle-Tianchi-ML-DL/blob/master/Task4%20%E5%BB%BA%E6%A8%A1%E8%B0%83%E5%8F%82.ipynb
+### task5 模型融合
+- https://github.com/LIJIANcoder97/kaggle-Tianchi-ML-DL/blob/master/Task5%20%E6%A8%A1%E5%9E%8B%E8%9E%8D%E5%90%88.ipynb
